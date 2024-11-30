@@ -100,7 +100,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-    overflow-x: hidden;
+
   }
   
   h1 {
@@ -1678,28 +1678,11 @@
     border-radius: 2px;
     margin-right: 1.5rem;
     transition: background-color .2s, border .2s;
-    box-sizing: border-box;
-    overflow: hidden;
-  }
-.learn-slider_slide img {
-  max-width: 100%;
-  height: auto;
-}
-@media (max-width: 767px) {
-  .learn-slider_slide {
-    display: block;
-    width: 100%;
-    margin-bottom: 20px;
+   
     overflow: hidden;
   }
 
-  .slider_video-wrap,
-  .learn-slider_content {
-    width: 100%;
-    text-align: center;
-    margin: 0 auto;
-  }
-}
+
 
   
   :hover {
