@@ -100,7 +100,6 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-
   }
   
   h1 {
@@ -1678,14 +1677,10 @@
     border-radius: 2px;
     margin-right: 1.5rem;
     transition: background-color .2s, border .2s;
-   
     overflow: hidden;
   }
-
-
-
   
-  :hover {
+  .learn-slider_slide:hover {
     background-color: #181715;
     border: 1px solid #414141;
   }
@@ -5104,8 +5099,6 @@
     align-self: start;
     justify-self: end;
   }
-
-
   
   #w-node-_8f943dbe-d988-8c01-7e66-8aeb5d8f3452-c5e7d0d0, #w-node-_5e3b545f-f199-2895-e2e1-be3a307875e4-c5e7d0d0, #w-node-_00b18c2d-79f1-edc4-232b-4db1d6ed0b43-c5e7d0d0, #w-node-_29066397-681a-c4be-d05e-a12673a2c9f2-c5e7d0d0, #w-node-a9e1b0eb-1034-163d-9ee0-9391b3e91fb1-c5e7d0d0, #w-node-_8b2f62c3-0b27-cc3e-9e7a-06692db80e7a-c5e7d0d0, #w-node-f039d170-bf3f-0cb1-344e-0d7a41805070-c5e7d0d0, #w-node-aeb15d2c-754a-8a1f-75a6-b19c8028d33a-c5e7d0d0, #w-node-aeb15d2c-754a-8a1f-75a6-b19c8028d33b-c5e7d0d0 {
     grid-area: span 1 / span 1 / span 1 / span 1;
